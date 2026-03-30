@@ -26,6 +26,36 @@ The full dataset used is the csv dataset and can be downloaded from https://www.
 6. [2 Hidden Classes Encoder Generator](2_classes_hidden/encoder_generator.ipynb)
 7. [2 Hidden Classes GMM](2_classes_hidden/GMM.ipynb)
 8. [2 Hidden Classes Threshold](2_classes_hidden/threshold.ipynb)
-9. [Variation Hidden Class Encoder Generator]()
-10. [Variation Hidden Class GMM]()
-11. [Variation Hidden Class Threshold]()
+9. Variation 
+    1. DDoS attack-HOIC
+        1. [Encoder Generator](variation/DDOS%20attack-HOIC/encoder_generator.ipynb)
+        2. [GMM](variation/DDOS%20attack-HOIC/GMM.ipynb)
+        3. [Threshold](variation/DDOS%20attack-HOIC/threshold.ipynb)
+    2. DDoS attack-LOIC-UDP
+        1. [Encoder Generator](variation/DDOS%20attack-LOIC-UDP/encoder_generator.ipynb)
+        2. [GMM](variation/DDOS%20attack-LOIC-UDP/GMM.ipynb)
+        3. [Threshold](variation/DDOS%20attack-LOIC-UDP/threshold.ipynb)
+    3. DDoS attacks-LOIC-HTTP
+        1. [Encoder Generator](variation/DDoS%20attacks-LOIC-HTTP/encoder_generator.ipynb)
+        2. [GMM](variation/DDoS%20attacks-LOIC-HTTP/GMM.ipynb)
+        3. [Threshold](variation/DDoS%20attacks-LOIC-HTTP/threshold.ipynb)
+    4. DoS attack-Goldeneye
+        1. [Encoder Generator](variation/DoS%20attacks-Goldeneye/encoder_generator.ipynb)
+        2. [GMM](variation/DoS%20attacks-Goldeneye/GMM.ipynb)
+        3. [Threshold](variation/DoS%20attacks-Goldeneye/threshold.ipynb)
+    5. DoS attacks-Hulk
+        1. [Encoder Generator](variation/DoS%20attacks-Hulk/encoder_generator.ipynb)
+        2. [GMM](variation/DoS%20attacks-Hulk/GMM.ipynb)
+        3. [Threshold](variation/DoS%20attacks-Hulk/threshold.ipynb)
+    5. DoS attacks-Slowloris
+        1. [Encoder Generator](variation/DoS%20attacks-Slowloris/encoder_generator.ipynb)
+        2. [GMM](variation/DoS%20attacks-Slowloris/GMM.ipynb)
+        3. [Threshold](variation/DoS%20attacks-Slowloris/threshold.ipynb)
+    7. FTP-BruteForce
+        1. [Encoder Generator](variation/FTP-BruteForce/encoder_generator.ipynb)
+        2. [GMM](variation/FTP-BruteForce/GMM.ipynbb)
+        3. [Threshold](variation/FTP-BruteForce/threshold.ipynb)
+    8. SSH-Bruteforce
+        1. [Encoder Generator](variation/SSH-Bruteforce/encoder_generator.ipynb)
+        2. [GMM](variation/SSH-Bruteforce/GMM.ipynbb)
+        3. [Threshold](variation/SSH-Bruteforce/threshold.ipynb)
